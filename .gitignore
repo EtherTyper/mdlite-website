@@ -1,3 +1,6 @@
+.tmp
+app.yaml
+
 # Logs
 logs
 *.log
